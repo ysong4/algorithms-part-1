@@ -1,0 +1,1 @@
+A good reference for determining whether the puzzle is solvable or not in Math.
